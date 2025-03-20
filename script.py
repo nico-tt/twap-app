@@ -78,7 +78,8 @@ def main():
         "RIVAL/USDT",
         "FARTBOY/USDT",  # Replace this with other pairs you'd like to track
         "ASV/USDT",
-        "SUPR/USDT"
+        "SUPR/USDT",
+        "NTX/USDT"
     ]
 
     # Let users pick which symbols to fetch
