@@ -79,7 +79,8 @@ def main():
         "FARTBOY/USDT",  # Replace this with other pairs you'd like to track
         "ASV/USDT",
         "SUPR/USDT",
-        "NTX/USDT"
+        "NTX/USDT",
+        "NIBI/USDT"
     ]
 
     # Let users pick which symbols to fetch
